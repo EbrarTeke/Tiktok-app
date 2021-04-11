@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880207251691",
+    "project_id": "lasttiktokapp",
+    "storage_bucket": "lasttiktokapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880207251691:android:e31dd1b89d551a650dd6ae",
+        "android_client_info": {
+          "package_name": "com.example.flutter_lasttiktokapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880207251691-fbd42e95j6ku4hfrvelavkl6lplvijhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS4vd6tVL7vKHcUb49zeO3ut5psuqdfec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880207251691-fbd42e95j6ku4hfrvelavkl6lplvijhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
